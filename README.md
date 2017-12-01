@@ -1,6 +1,6 @@
 # Connect IQ | Garmin Code Builder
-####Build script for building and deploying ConnectIQ apps from [Visual Studio Code](https://code.visualstudio.com/). 
-######Can be adapted for other IDE's also
+#### Build script for building and deploying ConnectIQ apps from [Visual Studio Code](https://code.visualstudio.com/). 
+###### Can be adapted for other IDE's also
 
 ## I was tired of using Eclipse to build my ConnectIQ apps
 I decided to experiment a bit. 
@@ -14,23 +14,31 @@ The following is a new project structure, a sample app, and 2 methods of buildin
 - Launch in simulator. 
 
 ### Show and Tell
-####*Feature Animation*
+#### *Feature Animation*
 <img src="./screenshots/anim.gif" width="750" />
-####*Viewing ConnectIQ files along side images*
+
+#### *Viewing ConnectIQ files along side images*
 <img src="./screenshots/img_md.png" width="750" />
-####*Viewing ConnectIQ files along side javascript files*
+
+#### *Viewing ConnectIQ files along side javascript files*
 <img src="./screenshots/md_js.png" width="750" />
-####*XML hilighting*
+
+#### *XML hilighting*
 <img src="./screenshots/xml.png" width="750" />
-####*Build steps*
+
+#### *Build steps*
 <img src="./screenshots/steps.png" width="750" />
-####*Config section of build script*
+
+#### *Config section of build script*
 <img src="./screenshots/config.png" width="750" />
-####*Debugging the deployment/simulator/build*
+
+#### *Debugging the deployment/simulator/build*
 <img src="./screenshots/debug_deploy.png" width="750" />
-####*With GIT support*
+
+#### *With GIT support*
 <img src="./screenshots/git.png" width="750" />
-####*Console output*
+
+#### *Console output*
 <img src="./screenshots/console.png" width="750" />
 
 
@@ -62,5 +70,5 @@ Execution will stop at the top of your build script.
 
 This breakpoint will allow you to view the console window and the results of the build.
 
-###Note:
+### Note:
 There is no intellisense yet, but I'm sure that's coming soon. I might try to adapt this to sublime and add code completion.
